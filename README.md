@@ -101,7 +101,7 @@ The Spiral life cycle is a risk-driven model which means that the overall succes
 
 Rapid application development is a software development methodology that uses minimal planning in favor of rapid prototyping.A prototype being a working model that is functionally equivalent to a component of the product, so essentially rapid application development follows a similiar a model, ideology to the prototyping modell, coming to a consensus.
 
-#### Adavantages
+#### Advantages
 
 The advantages of Rapid Application Development are as follows; Changing requirements can be accommodated, Progress can be measured, Iteration time can be short with use of powerful RAD tools,Productivity with fewer people in a short time, Reduced development time, increases reusability of components and encourages customer feedback.
 
