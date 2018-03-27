@@ -154,9 +154,10 @@ Re-alliterating briefly the information covered underneath the waterfall sub-hea
 
 Moreover the water development lifecycle is primarly suited for large development projects,with the inclusion of an abundant amount of risks and  clear specifications of the end product outlook.In correlation to the posed question as to the merits of applying the Waterfall lifecycle model to a large software development project,this is a crucial point as it means that the implementation should be benifical. 
 
-Large scale projects are usually arduous and run over a long period of time and therefore it is necassary to dtate the end goal near the beginning since tracing back or making alteractions could cause complications or the development team requireing to restart from the beginning 
+Large scale projects are usually arduous and run over a long period of time and therefore it is necassary to state the end goal near the beginning since tracing back or making alteractions could cause complications or the development team to have to restart from the beginning. Thus leading into the intial point as to why the application of the waterfall method to a large project is a merit, since the waterfall method model uses clear structure pariticualrly in comparision to other methodologies breaking down the project into manageable stages, focusing on a clear, defined set of steps. 
 
-breaking down into manageable stages 
+
+
 The Merits of using the water fall method for Large scale projects,
 
 
