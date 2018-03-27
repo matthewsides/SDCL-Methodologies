@@ -140,6 +140,8 @@ Requirement Traceability is a proccess that is one part of an overarching requir
 Software requirements may essentially be traced throughout the software lifecycle using tracability practices or requirement tracing, 
 a method that defines the ability to describe and follow the life of a requirement in both a forward and backward direction,ideally through each step of the entire life cycle. However not all practices are bidirectional, though exceptional ones should be with the traceability chains being traced both forwards and backwards.
 
+![Alt text](https://github.com/matthewsides/SDCL-Methodologies/blob/master/Bidirectional_Trace.jpg?raw=true "Optional Title")
+
 Furthermore requirement tracing is implemented and achieved through documenting and tracking tracability relationships between requirements. A tracability relationship is a dependency relationship between project elements.Similiar to how a dynamic project element schedule may react to the alteration of a task, a change to a requirement element may also affect other elements. A well documented traceability relationship should clearly define requirement dependinces, thus allowing anaylisis of how the alteracations in requirements affect other requirements and the project as a whole.
 
 
