@@ -162,10 +162,7 @@ Further expanding on the water falls simple and well layed out structure or fram
 
 In comparision to a large scale project the application of the waterfall practice would not be benifical since smaller projects are likely to have a higher rate of change and include more communication between the team and the client, in contrast to how a "successful" large scale project heralds limited changes and details the end goal at the start. Though instances of large scale projects requireing altirications exist, this usually leads to a product of porr quality or an up heveal of the team and project restart.
 
-
-
-Summarising the application of the Waterfall lifecycle model to a large software development project is recommended, particularly since the majority of large scale projects are not expected to change or to need new developments during the project lifecycle.Whilst the merit of documentation through the stages of a life cycle 
-
+Summarising the application of the Waterfall lifecycle model to a large software development project is recommended, particularly since the majority of large scale projects are not expected to change or to need new developments during the project lifecycle.Whilst the merit of documentation through the stages of a life cycle are seen. As a large scale project generally extends over a large period of time with team members beign dispensed or leaving, thus the merit of this waterfall feature enables new members to get up to speed quicker, backing the idea of utilising and merits of applying the Waterfall lifecycle model to a large software development project.
 However it may been seen that it is critical that the software developers involved in the large scale project are able to guide and advise clients effectively in order to circumvent problems later (since communication and changes are limited).
 
 
