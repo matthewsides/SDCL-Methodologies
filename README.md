@@ -135,7 +135,7 @@ RAD model can be applied successfully to the projects in which clear modularizat
 
 Requirement Traceability is a proccess that is one part of an overarching requirements management practice and extends from a requirements definition through to the implementation. Requirement tracing is used to ensure that the development proccess is correct, conforms to the needs of prior and next steps in the development proccess and suits the defined requirements. 
 
-### How software requirements can be traced throughout the software lifecycle.
+#### How software requirements can be traced throughout the software lifecycle.
 
 Software requirements may essentially be traced throughout the software lifecycle using tracability practices or requirement tracing, 
 a method that defines the ability to describe and follow the life of a requirement in both a forward and backward direction,ideally through each step of the entire life cycle. However not all practices are bidirectional, though exceptional ones should be with the traceability chains being traced both forwards and backwards.
@@ -146,3 +146,15 @@ Furthermore requirement tracing is implemented and achieved through documenting 
 
 
 Regardless of the project type,the model used to trace software requirements will be similiar throughout.The basic frame or structure for a tracability strategy is relatively common for most projects as it follows a hierachy from higher-level needs, through detailed requirements and then onto implementation. Project stages such as, development, support requirements that support product features that then all trace back to the a clients (stake holders/user/etc.) needs. Theses proccessess provide the capability to track or trace software requirements, ensuring that each requirement is completed to a standard, also verifying that each defined requirement has been addressed.
+
+
+### Application Merits of the water fall method for Large Projects
+
+Re-alliterating briefly the information covered underneath the waterfall sub-heading, the water fall method is a sequentian non-iterative design model , used in software development proccesses. This methods structure and flow  is similiar to that of a waterfall hence the term "waterfall". 
+
+Furthermore the water development lifecycle is primarly suited for large development projects,with the inclusion of an abundant amount of risks and  clear specifications of the end product outlook.In correlation to the posed question as to the merits of applying the Waterfall lifecycle model to a large software development project,this is a crucial point as it means that the implementation should be benifical and the  merits plentiful. 
+
+
+
+
+
