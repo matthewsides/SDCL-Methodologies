@@ -152,8 +152,12 @@ Regardless of the project type,the model used to trace software requirements wil
 
 Re-alliterating briefly the information covered underneath the waterfall sub-heading, the water fall method is a sequentian non-iterative design model , used in software development proccesses. This methods structure and flow  is similiar to that of a waterfall hence the term "waterfall". 
 
-Furthermore the water development lifecycle is primarly suited for large development projects,with the inclusion of an abundant amount of risks and  clear specifications of the end product outlook.In correlation to the posed question as to the merits of applying the Waterfall lifecycle model to a large software development project,this is a crucial point as it means that the implementation should be benifical and the  merits plentiful. 
+Moreover the water development lifecycle is primarly suited for large development projects,with the inclusion of an abundant amount of risks and  clear specifications of the end product outlook.In correlation to the posed question as to the merits of applying the Waterfall lifecycle model to a large software development project,this is a crucial point as it means that the implementation should be benifical. 
 
+Large scale projects are usually arduous and run over a long period of time and therefore it is necassary to dtate the end goal near the beginning since tracing back or making alteractions could cause complications or the development team requireing to restart from the beginning 
+
+breaking down into manageable stages 
+The Merits of using the water fall method for Large scale projects,
 
 
 
