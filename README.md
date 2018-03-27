@@ -132,9 +132,15 @@ RAD model can be applied successfully to the projects in which clear modularizat
 #### Examples
 
 ### Requirements Traceability 
+
 Requirement Traceability is a proccess that is one part of an overarching requirements management practice and extends from a requirements definition through to the implementation. Requirement tracing is used to ensure that the development proccess is correct, conforms to the needs of prior and next steps in the development proccess and suits the defined requirements. 
 
 ### How software requirements can be traced throughout the software lifecycle.
 
 Software requirements may essentially be traced throughout the software lifecycle using tracability practices or requirement tracing, 
 a method that defines the ability to describe and follow the life of a requirement in both a forward and backward direction,ideally through each step of the entire life cycle. However not all practices are bidirectional, though exceptional ones should be with the traceability chains being traced both forwards and backwards.
+
+Furthermore requirement tracing is implemented and achieved through documenting and tracking tracability relationships between requirements. A tracability relationship is a dependency relationship between project elements.Similiar to how a dynamic project element schedule may react to the alteration of a task, a change to a requirement element may also affect other elements. A well documented traceability relationship should clearly define requirement dependinces, thus allowing anaylisis of how the alteracations in requirements affect other requirements and the project as a whole.
+
+
+Regardless of the project type,the model used to trace software requirements will be similiar throughout.The basic frame or structure for a tracability strategy is relatively common for most projects as it follows a hierachy from higher-level needs, through detailed requirements and then onto implementation. Project stages such as, development, support requirements that support product features that then all trace back to the a clients (stake holders/user/etc.) needs. Theses proccessess provide the capability to track or trace software requirements, ensuring that each requirement is completed to a standard, also verifying that each defined requirement has been addressed.
