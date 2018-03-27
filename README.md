@@ -158,9 +158,16 @@ Large scale projects are usually arduous and run over a long period of time and 
 
 As the Waterfall’s approach is highly methodical,the method emphasises a clean transfer of information at each step. Which when applied in a software setting every new step involves a new group of people,though not necassary always the case in every instance. The documentation of each stage throughout a project’s lifecycle is benifical,since the waterfall method prioritizes accessible information. This essentially means that new additions to the team may be updated as to the projects current condition extremely quickly. A merit in relation to the implmentation of a such a model in a large scale project, as a large scale project usually stems over a monumentous  time period, thus it would not be strange to see the team infrastructure change during development(meaning that the new members would need to be filled in).
 
+Further expanding on the water falls simple and well layed out structure or frame, in regards to a large scale project, the pre-defined requirements, schedule, tasks, etc. would increase the team's efficency, ensuring time scales are kept with a clear outcome ,financial layout and test plan covered. This fudementally means that if the pre-set procedures, times etc. are followed with limited or no changes the rate in which the project is completed will along with the final outcome or quality increase. 
+
+In comparision to a large scale project the application of the waterfall practice would not be benifical since smaller projects are likely to have a higher rate of change and include more communication between the team and the client, in contrast to how a "successful" large scale project heralds limited changes and details the end goal at the start. Though instances of large scale projects requireing altirications exist, this usually leads to a product of porr quality or an up heveal of the team and project restart.
 
 
-The Merits of using the water fall method for Large scale projects,
+
+Summarising the application of the Waterfall lifecycle model to a large software development project is recommended, particularly since the majority of large scale projects are not expected to change or to need new developments during the project lifecycle.Whilst the merit of documentation through the stages of a life cycle 
+
+However it may been seen that it is critical that the software developers involved in the large scale project are able to guide and advise clients effectively in order to circumvent problems later (since communication and changes are limited).
+
 
 
 
