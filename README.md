@@ -131,4 +131,10 @@ RAD model can be applied successfully to the projects in which clear modularizat
 
 #### Examples
 
+### Requirements Traceability 
+Requirement Traceability is a proccess that is one part of an overarching requirements management practice and extends from a requirements definition through to the implementation. Requirement tracing is used to ensure that the development proccess is correct, conforms to the needs of prior and next steps in the development proccess and suits the defined requirements. 
 
+### How software requirements can be traced throughout the software lifecycle.
+
+Software requirements may essentially be traced throughout the software lifecycle using tracability practices or requirement tracing, 
+a method that defines the ability to describe and follow the life of a requirement in both a forward and backward direction,ideally through each step of the entire life cycle. However not all practices are bidirectional, though exceptional ones should be with the traceability chains being traced both forwards and backwards.
