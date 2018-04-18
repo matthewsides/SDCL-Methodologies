@@ -8,6 +8,8 @@ Author- Matthew Sides
 
 [2] SDLC Methodologies
 
+[3] FSM and EFSM
+
 ### [1] SDLC 
 
 SDLC or the abbreviated term System Development Life Cycle is a term generallly applied to system engineering, information systems and software engineering to describe the  process for planning, creating, testing, and deploying an information system.
@@ -165,7 +167,33 @@ In comparision to a large scale project the application of the waterfall practic
 Summarising the application of the Waterfall lifecycle model to a large software development project is recommended, particularly since the majority of large scale projects are not expected to change or to need new developments during the project lifecycle.Whilst the merit of documentation through the stages of a life cycle are seen. As a large scale project generally extends over a large period of time with team members beign dispensed or leaving, thus the merit of this waterfall feature enables new members to get up to speed quicker, backing the idea of utilising and merits of applying the Waterfall lifecycle model to a large software development project.
 However it may been seen that it is critical that the software developers involved in the large scale project are able to guide and advise clients effectively in order to circumvent problems later (since communication and changes are limited).
 
+### FSM and EFSM
 
+A finite state machine is a mathematical model, that can be any one finite states specified at a given time 
+and transition to another state via external input.The finite state machine is considered boolean (meaning) in 
+that a state is either on or off.
+
+In a conventional finite state machine, the transition is associated with a set of input Boolean conditions and 
+a set of output Boolean functions. 
+
+In an extended finite state machine (EFSM) model, the transition is or can be expressed through 
+the use of an “if statement” consisting of a set of trigger conditions.
+
+An example of a finite state machine would be a traffic light, a traffic light includes 4 states;red, red amber,
+amber and green. The red state signifys that all cars must stop,prohibiting the flow of traffic. Whilst the state tranisition between red to amber or red amber indicates that the signal is about to change to green. The amber state warns that the signal is about 
+is about to transition or change to red.While the green light allows traffic to proceed in the direction denoted.
+The states go in a decending and ascending order. 
+
+In addition the traffic lights concurrent state is usually red not deviating unless either external input is given
+through the press of a button linked or connected to the lights. The Traffic lights may also be motion sensored
+or timed synonymously changing, adding another factor and removing the variable regarding external input.
+
+An Extended finite state machine as alliterated above isnt to different to the finite state machine other than 
+the decideing factor that FSM (finite-state-machine) is associated with booleans. While a EFSM (Extended-finite-state-machine)
+is linked to "If Statements". The functions are devised may output the same outcome, it is in the way it gathers 
+the external input and what it does with that input or how it functions thats different. For instance an elevator 
+may be an Extended finite state machine or a finite state machine with a plefora of states depending on the 
+amount of floors or scenarios circumstances.
 
 
 
