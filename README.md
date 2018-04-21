@@ -188,6 +188,8 @@ In addition the traffic lights concurrent state is usually red not deviating unl
 through the press of a button linked or connected to the lights. The Traffic lights may also be motion sensored
 or timed synonymously changing, adding another factor and removing the variable regarding external input.
 
+![Alt text](https://github.com/matthewsides/SDCL-Methodologies/blob/master/State_Chart_Traffic_Light.jpg?raw=true "Optional Title")
+
 An Extended finite state machine as alliterated above isnt to different to the finite state machine other than 
 the decideing factor that FSM (finite-state-machine) is associated with booleans. While a EFSM (Extended-finite-state-machine)
 is linked to "If Statements". The functions are devised may output the same outcome, it is in the way it gathers 
