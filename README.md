@@ -10,7 +10,7 @@ Author- Matthew Sides
 
 [3] FSM and EFSM
 
-[4] Behavioral Specification Methods
+[4] Behavioural  Specification Methods
 
 ### [1] SDLC 
 
@@ -202,7 +202,7 @@ amount of floors or scenarios circumstances.
 A State machine is usually illustrated or described through a Statechart. State machine (as alliteratted above) can be defined as a machine which defines different states of an object and these states are controlled by external or internal events (e.g finite state machine, extended finite state machine). The UML state chart describes the different states of a component in a system, illustrating the transitions and possible outcomes. The image displayed above regarding the finite state machine, traffic lights is a UML state chart diagram.
 
 
-### [4] Behavioral Specification Methods
+### [4] Behavioural  Specification Methods
 
 #### UML State Chart
 
