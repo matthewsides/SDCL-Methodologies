@@ -205,4 +205,6 @@ A State machine is usually illustrated or described through a Statechart. State 
 
 #### UML State Chart
 
-The name of the diagram itself clarifies the purpose of the diagram and other details. It describes different states of a component in a system. The states are specific to a component/object of a system.
+The UML State chart describes different states of a component in a system. The states are specific to a component/object of a system. The statechart diagram is one of the five UML diagrams used to model the dynamic nature of a system. They define different states of an object during its lifetime and these states are altered by events. State charts are useful when modeling reactive systems (systems that respond to external or internal events).
+
+A Statechart diagram describes the flow of control from one state to another state. States are defined as a condition in which an object exists, that changes when a pre-set event is triggered. The most important purpose of Statechart diagram is to model lifetime of an object from creation to termination.
