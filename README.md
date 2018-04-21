@@ -10,6 +10,8 @@ Author- Matthew Sides
 
 [3] FSM and EFSM
 
+[4] Behavioral Specification Methods
+
 ### [1] SDLC 
 
 SDLC or the abbreviated term System Development Life Cycle is a term generallly applied to system engineering, information systems and software engineering to describe the  process for planning, creating, testing, and deploying an information system.
@@ -167,7 +169,7 @@ In comparision to a large scale project the application of the waterfall practic
 Summarising the application of the Waterfall lifecycle model to a large software development project is recommended, particularly since the majority of large scale projects are not expected to change or to need new developments during the project lifecycle.Whilst the merit of documentation through the stages of a life cycle are seen. As a large scale project generally extends over a large period of time with team members beign dispensed or leaving, thus the merit of this waterfall feature enables new members to get up to speed quicker, backing the idea of utilising and merits of applying the Waterfall lifecycle model to a large software development project.
 However it may been seen that it is critical that the software developers involved in the large scale project are able to guide and advise clients effectively in order to circumvent problems later (since communication and changes are limited).
 
-### FSM and EFSM
+### [3] FSM and EFSM
 
 A finite state machine is a mathematical model, that can be any one finite states specified at a given time 
 and transition to another state via external input.The finite state machine is considered boolean (meaning) in 
@@ -200,7 +202,7 @@ amount of floors or scenarios circumstances.
 A State machine is usually illustrated or described through a Statechart. State machine (as alliteratted above) can be defined as a machine which defines different states of an object and these states are controlled by external or internal events (e.g finite state machine, extended finite state machine). The UML state chart describes the different states of a component in a system, illustrating the transitions and possible outcomes. The image displayed above regarding the finite state machine, traffic lights is a UML state chart diagram.
 
 
-### Behavioral Specification Methods
+### [4] Behavioral Specification Methods
 
 #### UML State Chart
 
