@@ -236,3 +236,8 @@ The Activity diagram is often likened or considered as the flowchart. This is du
 The function design paradigm is a paradigm used to simplify the design of software.A functional design assures that each modular part of a system has only one responsibility and performs that responsibility with the minimum of side effects on other parts. 
 
 The application of the function design paradigm in the software development life cycle can improve software quality, though it is dependant on the software being developed and model used. For instance,the implementation for a software module with a single purpose, will be ensure that the proccess is simpler, and therefore easier and less expensive, to design and implement.Thus it may be seen that the functional design paradigm would function better with the water fall life cycle. Whilst Systems with functionally designed parts would be easier to modify because each part does only what it claims to do.
+
+
+### [6] How data driven software can improve the reliability and effectiveness of software
+
+
