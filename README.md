@@ -211,6 +211,7 @@ A Statechart diagram describes the flow of control from one state to another sta
 
 Through delving into the practical implementation of a Statechart diagram, it is clear that the chart is primary or  mainly used to analyze the object states influenced by events. This analysis is helpful to understand the system behavior during its execution. An illustration of a state chart and real life application may be seen through a Microwave. As a Microwave includes a set number of states that may change depending on events being triggered, if conditions are met (input given/internal/external). The UML State chart for a microwave is displayed below, showing the state transitions. 
 
+![Alt text](https://github.com/matthewsides/SDCL-Methodologies/blob/master/state_diagram_microwave.png?raw=true "Optional Title")
 
 #### Activity diagram 
 
