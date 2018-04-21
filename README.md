@@ -12,6 +12,8 @@ Author- Matthew Sides
 
 [4] Behavioural  Specification Methods
 
+[5] How the use of the function design paradigm in the software development lifecycle can improve software quality
+
 ### [1] SDLC 
 
 SDLC or the abbreviated term System Development Life Cycle is a term generallly applied to system engineering, information systems and software engineering to describe the  process for planning, creating, testing, and deploying an information system.
@@ -228,3 +230,7 @@ Activity is a particular operation of the system. Activity diagrams are not only
 The Activity diagram is often likened or considered as the flowchart. This is due to the diagrams looking like a flow chart, however the diagrams are not, showing different flows such as parallel, branched, concurrent, and single. An instance of where a Activity diagram would be applied is in an ATM system, used to illustrate and describe the possible outcomes and proccess. The Activity diagram shown below describes and illustrates the theory behind the proccess of withdrawing money.
 
 ![Alt text](https://github.com/matthewsides/SDCL-Methodologies/blob/master/Activity_Diagram_ATM.png?raw=true "Optional Title")
+
+### [5] How the use of the function design paradigm in the software development lifecycle can improve software quality
+
+The function design paradigm is a paradigm used to simplify the design of hardware and software device (computer software). 
