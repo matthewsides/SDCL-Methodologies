@@ -225,4 +225,4 @@ Activity is a particular operation of the system. Activity diagrams are not only
 
 The Activity diagram is often likened or considered as the flowchart. This is due to the diagrams looking like a flow chart, however the diagrams are not, showing different flows such as parallel, branched, concurrent, and single. An instance of where a Activity diagram would be applied is in an ATM system, used to illustrate and describe the possible outcomes and proccess. The Activity diagram shown below describes and illustrates the theory behind the proccess of withdrawing money.
 
-![Alt text](https://github.com/matthewsides/SDCL-Methodologies/blob/master/state_diagram_microwave.png?raw=true "Optional Title")
+![Alt text](https://github.com/matthewsides/SDCL-Methodologies/blob/master/Activity_Diagram_ATM.png?raw=true "Optional Title")
