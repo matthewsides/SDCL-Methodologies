@@ -195,6 +195,7 @@ the external input and what it does with that input or how it functions thats di
 may be an Extended finite state machine or a finite state machine with a plefora of states depending on the 
 amount of floors or scenarios circumstances.
 
+A State machine is usually illustrated or described through a Statechart. State machine (as alliteratted above) can be defined as a machine which defines different states of an object and these states are controlled by external or internal events (e.g finite state machine, extended finite state machine).
 
 
 ### Behavioral Specification Methods
@@ -203,3 +204,5 @@ amount of floors or scenarios circumstances.
 
 
 #### UML State Chart
+
+The name of the diagram itself clarifies the purpose of the diagram and other details. It describes different states of a component in a system. The states are specific to a component/object of a system.
