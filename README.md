@@ -200,9 +200,6 @@ A State machine is usually illustrated or described through a Statechart. State 
 
 ### Behavioral Specification Methods
 
-#### Activy diagram 
-
-
 #### UML State Chart
 
 The UML State chart describes different states of a component in a system. The states are specific to a component/object of a system. The statechart diagram is one of the five UML diagrams used to model the dynamic nature of a system. They define different states of an object during its lifetime and these states are altered by events. State charts are useful when modeling reactive systems (systems that respond to external or internal events).
@@ -211,3 +208,18 @@ A Statechart diagram describes the flow of control from one state to another sta
 
 
 Through delving into the practical implementation of a Statechart diagram, it is clear that the chart is primary or  mainly used to analyze the object states influenced by events. This analysis is helpful to understand the system behavior during its execution. An illustration of a state chart and real life application may be seen through a Microwave. As a Microwave includes a set number of states that may change depending on events being triggered, if conditions are met (input given/internal/external). The UML State chart for a microwave is displayed below, showing the state transitions. 
+
+
+#### Activity diagram 
+
+An Activity diagram is another diagram in UML, used  to describe the dynamic aspects of the system. The Activity diagram is essentially a flowchart used to represent the flow from one activity to another activity. The activity can be described as an operation of the system.
+
+The control flow is drawn from one operation to another. This flow can be sequential, branched, or concurrent. Activity diagrams deal with all type of flow control by using different elements such as fork, join, etc.
+
+The Activity diagram is similiar to other UML diagrams in regards to capturing the dynamic behaviour of a system.However the four diagrams are used to show the message flow from one object to another, whilst the activity diagram is used to show message flow from one activity to another.
+
+Activity is a particular operation of the system. Activity diagrams are not only used for visualising the dynamic nature of a system, but they are also used to construct the executable system by using forward and reverse engineering techniques. Though the Activity diagram does not show any message flow from one activity to another. 
+
+The Activity diagram is often likened or considered as the flowchart. This is due to the diagrams looking like a flow chart, however the diagrams are not, showing different flows such as parallel, branched, concurrent, and single.
+
+
