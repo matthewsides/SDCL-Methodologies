@@ -197,3 +197,9 @@ amount of floors or scenarios circumstances.
 
 
 
+### Behavioral Specification Methods
+
+#### Activy diagram 
+
+
+#### UML State Chart
