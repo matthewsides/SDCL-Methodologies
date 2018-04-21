@@ -195,7 +195,7 @@ the external input and what it does with that input or how it functions thats di
 may be an Extended finite state machine or a finite state machine with a plefora of states depending on the 
 amount of floors or scenarios circumstances.
 
-A State machine is usually illustrated or described through a Statechart. State machine (as alliteratted above) can be defined as a machine which defines different states of an object and these states are controlled by external or internal events (e.g finite state machine, extended finite state machine).
+A State machine is usually illustrated or described through a Statechart. State machine (as alliteratted above) can be defined as a machine which defines different states of an object and these states are controlled by external or internal events (e.g finite state machine, extended finite state machine). The UML state chart describes the different states of a component in a system, illustrating the transitions and possible outcomes. The image displayed above regarding the finite state machine, traffic lights is a UML state chart diagram.
 
 
 ### Behavioral Specification Methods
@@ -208,3 +208,6 @@ A State machine is usually illustrated or described through a Statechart. State 
 The UML State chart describes different states of a component in a system. The states are specific to a component/object of a system. The statechart diagram is one of the five UML diagrams used to model the dynamic nature of a system. They define different states of an object during its lifetime and these states are altered by events. State charts are useful when modeling reactive systems (systems that respond to external or internal events).
 
 A Statechart diagram describes the flow of control from one state to another state. States are defined as a condition in which an object exists, that changes when a pre-set event is triggered. The most important purpose of Statechart diagram is to model lifetime of an object from creation to termination.
+
+
+Through delving into the practical implementation of a Statechart diagram, it is clear that the chart is primary or  mainly used to analyze the object states influenced by events. This analysis is helpful to understand the system behavior during its execution. An illustration of a state chart and real life application may be seen through a Microwave. As a Microwave includes a set number of states that may change depending on events being triggered, if conditions are met (input given/internal/external). The UML State chart for a microwave is displayed below, showing the state transitions. 
