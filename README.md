@@ -240,7 +240,7 @@ The application of the function design paradigm in the software development life
 
 ### [6] How data driven software can improve the reliability and effectiveness of software
 
-Data driven software engineering can support and increase the reliability and effectiveness of  software. The effectiveness and reliability of software is essentially improved due to the data driven software engineering techniques, software functionality only requiring that the abstract data type of variables that it is working with is known. 
+Data driven software engineering can support and increase the reliability and effectiveness of  software. The effectiveness and reliability of software is essentially improved due to the data driven software engineering techniques, software functionality only requires that the abstract data type of variables that it is working with is known, thus increasing the effectiveness .  
 
 
 
