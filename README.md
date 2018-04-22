@@ -240,31 +240,8 @@ The application of the function design paradigm in the software development life
 
 ### [6] How data driven software can improve the reliability and effectiveness of software
 
-Data driven software engineering can support and increase the reliability and effectiveness of  software. The effectiveness and reliability of software is essentially improved due to the data driven software engineering techniques, software functionality only requiring that the abstract data type of variables that it is working with is known.  
+Data driven software engineering can support and increase the reliability and effectiveness of  software. The effectiveness and reliability of software is essentially improved due to the data driven software engineering techniques, software functionality only requiring that the abstract data type of variables that it is working with is known. Functions and interfaces can also be used on all objects with the same data fields, for instance the object's "position". Data can be grouped into objects or "entities" according to preference with little to no consequence.
 
+However though data-driven design does prevent coupling of data and functionality,data-driven programming has been argued to lead to bad object-oriented design, especially when dealing with more abstract data. This is because a purely data-driven object or entity is defined by the way it is represented. Any attempt to change the structure of the object would immediately break the functions that rely on it.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- Functionality simply requires that it knows the abstract data type of the variables it is working with. Functions and interfaces can be used on all objects with the same data fields, for instance the object's "position". Data can be grouped into objects or "entities" according to preference with little to no consequence.
-
-While data-driven design does prevent coupling of data and functionality, in some cases, data-driven programming has been argued to lead to bad object-oriented design, especially when dealing with more abstract data. This is because a purely data-driven object or entity is defined by the way it is represented. Any attempt to change the structure of the object would immediately break the functions that rely on it.
-
-As an example, one might represent driving directions as a series of intersections (two intersecting streets) where the driver must turn right or left. If an intersection (in the United States) is represented in data by the zip code (5-digit number) and two street names (strings of text), bugs may appear when a city where streets intersect multiple times is encountered. While this example may be oversimplified, restructuring of data is fairly common problem in software engineering, either to eliminate bugs, increase efficiency, or support new features. In these cases responsibility-driven design may be promoted as a better approach, where functionality and data can be coupled together, so functions don't have to deal with the data representation itself.[2]
 
