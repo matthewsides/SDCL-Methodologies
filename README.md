@@ -235,7 +235,15 @@ The Activity diagram is often likened or considered as the flowchart. This is du
 
 The function design paradigm is a paradigm used to simplify the design of software.A functional design assures that each modular part of a system has only one responsibility and performs that responsibility with the minimum of side effects on other parts. 
 
-The application of the function design paradigm in the software development life cycle can improve software quality, though it is dependant on the software being developed and model used. For instance,the implementation for a software module with a single purpose, will be ensure that the proccess is simpler, and therefore easier and less expensive, to design and implement.Thus it may be seen that the functional design paradigm would function better with the water fall life cycle. Whilst Systems with functionally designed parts would be easier to modify because each part does only what it claims to do.
+The application of the function design paradigm in the software development life cycle can improve software quality, though it is dependant on the software being developed and model used. For instance,the implementation for a software module with a single purpose, will be ensure that the proccess is simpler, and therefore easier and less expensive, to design and implement.Thus it may be seen that the functional design paradigm would function better with the water fall life cycle.
+
+Whilst Systems with functionally designed parts would be easier to modify because each part does only what it claims to do. Moreover since maintenance is spanned over the majority of a systems life, this feature is a crucial advantage. It also makes the system easier to understand and document, which inturn simplifies training and improves the softwares ease of use. The result is that the practical lifetime of a functional system is longer. Whilst in a system of programs, a functional module will be easier to reuse, this consequently improving the software because it is less likely to have side effects that appear in other parts of the system.
+
+
+However the application of the function design paradigm  in software development also heralds disadvantages with regards to software quality, as a computer systm has intergrated parts that cannot be functionally pure because they exist to distribute CPU cycles or other resources to different modules. For instance the majority of systems have an "initialization" section that starts up the modules
+
+While some functions  inherently have mixed semantics.This meaning that for instance a fucntion to move an object from one positiion to another. In some cases, the mixed semantics can extend over a large topological tree or graph of related concepts. In these unusual cases, functional design is not recommended by some authorities. Instead polymorphism, inheritance, or procedural methods may be preferred.
+
 
 
 ### [6] How data driven software can improve the reliability and effectiveness of software
