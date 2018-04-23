@@ -242,8 +242,7 @@ Whilst Systems with functionally designed parts would be easier to modify becaus
 
 However the application of the function design paradigm  in software development also heralds disadvantages with regards to software quality, as a computer systm has intergrated parts that cannot be functionally pure because they exist to distribute CPU cycles or other resources to different modules. For instance the majority of systems have an "initialization" section that starts up the modules
 
-While some functions  inherently have mixed semantics.This meaning that for instance a fucntion to move an object from one positiion to another. In some cases, the mixed semantics can extend over a large topological tree or graph of related concepts. In these unusual cases, functional design is not recommended by some authorities. Instead polymorphism, inheritance, or procedural methods may be preferred.
-
+While some functions  inherently have mixed semantics.This meaning that for instance a function to move an object from one positiion to another,inherently has a side effect of changing the "object position". In some cases, the mixed semantics can extend over a large topological tree or graph of related concepts. In theses circumstances or scenarios it is suggested or recommended not to use functional design but rather procedural,  polymorphism or inheritance methods as the preference.
 
 
 ### [6] How data driven software can improve the reliability and effectiveness of software
