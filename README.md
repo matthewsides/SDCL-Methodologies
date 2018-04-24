@@ -251,9 +251,11 @@ Data driven software engineering can support and increase the reliability and ef
 
 However though data-driven design does prevent coupling (pairing) of data and functionality,data-driven programming has been argued to lead to bad object-oriented design, especially when dealing with more abstract data. This is because a purely data-driven object or entity is defined by the way it is represented. Any attempt to change the structure of the object would immediately break the functions that rely on it.
 
-The flexibility of data driven software or a data structure is another benefit, as designing for instance a programmed instruction application as a set of methods would be harder to change. Where as a data driven program is able to take all data pertaining to the programmed instruction course from a file. Through using this approach  the same program can present many different courses by using different data files. 
+The flexibility of data driven software or a data structure is another benefit, as designing for instance a programmed instruction application as a set of methods would be harder to change. Where as a data driven program is able to take all data pertaining to the programmed instruction course from a file. Through using this approach  the same program can present many different courses by using different data files. In principle meaning that the program is able to sample data files that have been edited with non programming practices.
 
+Summarising Data Driven software can improve the reliability and effectiveness, only requiring that the abstract variables it is using are known. Whilst functions and interfaces can be used on objects with the same datafields, with data also being grouped into objects according to bias
 
+However the software is reliant on the data it is given or has accumalated over time 
 
 
 
