@@ -249,6 +249,6 @@ Summarising the points covered above the use of the function design paradigm in 
 
 Data driven software engineering can support and increase the reliability and effectiveness of  software. The effectiveness and reliability of software is essentially improved due to the data driven software engineering techniques, software functionality only requiring that the abstract data type of variables that it is working with is known. Functions and interfaces can also be used on all objects with the same data fields, for instance the object's "position". Data can be grouped into objects or "entities" according to preference with little to no consequence.
 
-However though data-driven design does prevent coupling of data and functionality,data-driven programming has been argued to lead to bad object-oriented design, especially when dealing with more abstract data. This is because a purely data-driven object or entity is defined by the way it is represented. Any attempt to change the structure of the object would immediately break the functions that rely on it.
+However though data-driven design does prevent coupling (pairing) of data and functionality,data-driven programming has been argued to lead to bad object-oriented design, especially when dealing with more abstract data. This is because a purely data-driven object or entity is defined by the way it is represented. Any attempt to change the structure of the object would immediately break the functions that rely on it.
 
 
