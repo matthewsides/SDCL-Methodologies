@@ -253,9 +253,7 @@ However though data-driven design does prevent coupling (pairing) of data and fu
 
 The flexibility of data driven software or a data structure is another benefit, as designing for instance a programmed instruction application as a set of methods would be harder to change. Where as a data driven program is able to take all data pertaining to the programmed instruction course from a file. Through using this approach  the same program can present many different courses by using different data files. In principle meaning that the program is able to sample data files that have been edited with non programming practices.
 
-Summarising Data Driven software can improve the reliability and effectiveness, only requiring that the abstract variables it is using are known. Whilst functions and interfaces can be used on objects with the same datafields, with data also being grouped into objects according to bias
-
-However the software is reliant on the data it is given or has accumalated over time 
+Summarising, Data Driven software can improve the reliability and effectiveness, only requiring that the abstract variables it is using are known. Whilst functions and interfaces can be used on objects with the same datafields, with data also being grouped into objects according to bias with no drawbacks. Whilst data driven software is often flexable, due to the software being able to access  data and make decisions or proccess around that (triggers) rather than an following a pre-set algorithm. The software can also expand based on the data that is retrieved, however the software can be reliant on the data it is given or has accumalated over time. In addition though data driven prevents the coupling of data, it in turn has been said to lead to poor object orientated design. This is primarly due to a data driven entity being defined by the way it is represented, meaning any attempt to alter the structure would break the functions that are connected and rely on it.
 
 
 
