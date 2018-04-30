@@ -125,6 +125,10 @@ Inaddition the model is inapplicable to cheaper projects as cost of modeling and
 
 RAD model can be applied successfully to the projects in which clear modularization is possible. If the project cannot be broken into modules, RAD may fail.
 
+### V Model
+
+The V model is a sequential 
+
 ### TraditionalXAgile
 
 #### Advantages
