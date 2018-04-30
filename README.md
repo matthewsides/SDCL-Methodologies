@@ -127,7 +127,14 @@ RAD model can be applied successfully to the projects in which clear modularizat
 
 ### V Model
 
-The V model is a sequential 
+The V model (sequential) may be considered as an extension of the water fall model, following a step by step proccess, forming a linear V shape. However the underlying difference is that in the waterfall model, the testing activities are carried out after the development activities are over.This essentially means that the waterfall model is a continuous process, while the V model is a simultaneous process.
+
+#### Advantages
+
+
+#### Disadvantages
+
+
 
 ### TraditionalXAgile
 
