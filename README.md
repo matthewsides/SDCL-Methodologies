@@ -108,6 +108,8 @@ The life cycle in essence can be split up into 4 stages, determining objectives,
 
 The Spiral life cycle is a risk-driven model which means that the overall success of a project highly depends on the risks analysis phase. Further linking into how risks are managed in the model, analysis is critical, (managed through) identifying, estimating and monitoring the technical feasibility and management risks, such as schedule slippage and cost overrun. Thus risk analysis is required with special skills and specific expertise at the end of each iteration. Moreover, once the build is tested, at the end of first iteration, feedback on the software (evaluation) is retrieved or given, which can further help manage and avoid problems (implications/complications) or risks. 
 
+The repetition of the cycle essentially manages risks developed or formed on the patches or fixes made in the prior cycles, whilst also allowing a developer to find previously missed risks and remove them.
+
 
 
 ### Rapid Application Development (RAD)
