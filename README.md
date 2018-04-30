@@ -104,7 +104,9 @@ The spiral model in SDLC is very popular in software engineering, website and so
 
 #### Spiral-lifecycle-model-Risk-Management
 
-The Spiral life cycle is a risk-driven model which means that the overall success of a project highly depends on the risks analysis phase. Futher linking into how risks are managed in the model, analysis is critical,(manged through)identifying, estimating and monitoring the technical feasibility and management risks, such as schedule slippage and cost overrun. Moreover once the build is tested, at the end of first iteration, feedback on the software (evaluation) is retrieved or given, which can further help manage and avoid problems (implications/complications) or risks.
+The Spiral life cycle is a risk-driven model which means that the overall success of a project highly depends on the risks analysis phase. Futher linking into how risks are managed in the model, analysis is critical,(manged through)identifying, estimating and monitoring the technical feasibility and management risks, such as schedule slippage and cost overrun. Moreover once the build is tested, at the end of first iteration, feedback on the software (evaluation) is retrieved or given, which can further help manage and avoid problems (implications/complications) or risks. 
+
+The life cycle in essence can be split up into 4 stages, determining objectives, identify and resolving risks, development and testing essentially seeing whether the risks are still present and the planning of the next iteration, essentially going through cycles.
 
 ### Rapid Application Development (RAD)
 
