@@ -131,6 +131,7 @@ The V model (sequential) may be considered as an extension of the water fall mod
 
 #### Advantages
 
+The advantages in using the V model consist of;the simplicity and ease of use, testing activities as the test designing happens before coding. Thus saving time, hence a higher chance of success over the waterfall model.The V model also includes proactive defect tracking – that is defects are found at early stage.Moreover Avoiding the downward flow of the defects. This model is particularly suitable for small projects where requirements are easily understood.
 
 #### Disadvantages
 
