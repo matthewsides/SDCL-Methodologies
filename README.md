@@ -173,7 +173,7 @@ However it may been seen that it is critical that the software developers involv
 
 ### [3] FSM and EFSM
 
-A finite state machine is a mathematical model, that can be any one finite states specified at a given time 
+A finite state machine is a mathematical (binary) model, that can be any one finite states specified at a given time 
 and transition to another state via external input.The finite state machine is considered boolean (meaning) in 
 that a state is either on or off.
 
