@@ -26,7 +26,7 @@ A few of the models are reiterated below in detail, going through the models pur
 
 ### Waterfall method-
 
-The waterfall is a sequential non-iterative design model, used in software development processes. Furthermore, as suggested in the conceptual name and illustrated in the overall outlook of the theoretical waterfall model it can be likened to that of a literal waterfall, following a similar system; flowing steadily downwards (hence the name waterfall) through phases of conception, initiation, analysis, design, construction, testing, production/implementation and maintenance.
+The waterfall is a sequential non-iterative design model, used in software development processes. Furthermore, as suggested in the conceptual name and illustrated in the overall outlook of the theoretical waterfall model it can be likened to that of a literal waterfall, following a similar system; flowing steadily downwards (hence the name waterfall) through phases of conception, initiation, analysis, design, construction, testing, production/implementation and maintenance. The next stage in the waterfall method may not be started until the current stage is completed.
 
 #### Disadvantages 
 
@@ -51,7 +51,7 @@ For the type of software products that do not change very much once they are spe
 
 ### Evolutionary Model
 
-The Evolutionary Model or approach (is a combination of iterative and incremental) is based on the idea of rapidly developing an initial software implementation from very abstract specifications and modifying this according to an appraisal (phases are concurrent and feedback is given and used between each phase). 
+The Evolutionary Model or approach (is a combination of iterative and incremental) is based on the idea of rapidly developing an initial software implementation from very abstract specifications and modifying this according to an appraisal (phases are concurrent and feedback is given and used between each phase). This essentially means developing an application, getting feedback and rather than what is done in the prototyping model and scraping the application, building upon it.
 
 #### Advantages 
 
