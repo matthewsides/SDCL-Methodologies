@@ -88,7 +88,7 @@ This links commonly to, online systems and web interfaces that have a very high 
 
 ### Spiral Method
 
-This Spiral model is a combination of iterative development process model and sequential linear development model i.e. the waterfall model with a very high emphasis on risk analysis. The spiral model has four phases: Planning, Risk Analysis, Engineering and Evaluation. Each subsequent spirals builds on the baseline spiral.
+This Spiral model is a combination of iterative development process model and sequential linear development model i.e. the waterfall model with a very high emphasis on risk analysis. The spiral model has four phases: Planning, Risk Analysis, Engineering and Evaluation. Each subsequent spirals builds on the baseline spiral. This essentially means that after one cycle another has passed another is started
 
 #### Advantages
 
