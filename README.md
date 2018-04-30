@@ -139,6 +139,8 @@ The disadvantages of using the V model stems from the lack of flexability and  m
 
 #### Examples
 
+The V-shaped model should be used for small to medium sized projects where requirements are clearly defined and fixed. The V-Shaped model should be chosen when ample technical resources are available with needed technical expertise. Whilst high confidence of consumers will be required to implement since no prototype is avaliable.
+
 ### TraditionalXAgile
 
 #### Advantages
