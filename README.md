@@ -135,7 +135,9 @@ The advantages in using the V model consist of;the simplicity and ease of use, t
 
 #### Disadvantages
 
+The disadvantages of using the V model stems from the lack of flexability and  models Rigidity.Whilst software is developed during the implementation phase, meaning there are no early prototypes of the software produced. If any changes happen midway through development, then the test documents along with requirement documents have to be updated.
 
+#### Examples
 
 ### TraditionalXAgile
 
