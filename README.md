@@ -51,7 +51,7 @@ For the type of software products that do not change very much once they are spe
 
 ### Evolutionary Model
 
-The Evolutionary Model or approach is based on the idea of rapidly developing an initial software implementation from very abstract specifications and modifying this according to an appraisal (phases are concurrent and feedback is given and used between each phase). 
+The Evolutionary Model or approach (is a combination of iterative and incremental) is based on the idea of rapidly developing an initial software implementation from very abstract specifications and modifying this according to an appraisal (phases are concurrent and feedback is given and used between each phase). 
 
 #### Advantages 
 
@@ -60,11 +60,14 @@ This is the only method appropriate for situations where a detailed system speci
 #### Disadvantages
 
 It is difficult to measure progress and produce documentation reflecting every version of the system as it evolves. This paradigm usually results in badly structured programs due to continual code modification. Production of good quality software using this method requires highly skilled and motivated programmers.
+
 #### Example
+
+This model should be applied when there isnt a detailed system specification, where tasks are not meant be straightforward nor are they meant to be set in stone.
 
 ### Prototyping  Model
 
-The Prototyping Model is a systems development method (SDM) in which a prototype (an early approximation of a final system) displays the functionality of the product under development, but may not actually hold the exact logic of the original software (early copy of the system, used to understand the requirements). That is to say that it is built, tested, and then reworked as necessary until an acceptable prototype is finally achieved from which the complete system or product can now be developed (the prototype is essentially the frame work).
+The Prototyping Model is a iterative model and systems development method (SDM) in which a prototype (an early approximation of a final system) displays the functionality of the product under development, but may not actually hold the exact logic of the original software (early copy of the system, used to understand the requirements). That is to say that it is built, tested, and then reworked as necessary until an acceptable prototype is finally achieved from which the complete system or product can now be developed (the prototype is essentially the frame work).
 
 #### Advantages
 
@@ -105,7 +108,7 @@ The Spiral life cycle is a risk-driven model which means that the overall succes
 
 ### Rapid Application Development (RAD)
 
-Rapid application development is a software development methodology that uses minimal planning in favor of rapid prototyping.A prototype being a working model that is functionally equivalent to a component of the product, so essentially rapid application development follows a similiar a model, ideology to the prototyping modell, coming to a consensus.
+Rapid application development is a (iterative) software development methodology that uses minimal planning in favor of rapid prototyping.A prototype being a working model that is functionally equivalent to a component of the product, so essentially rapid application development follows a similiar a model, ideology to the prototyping modell, coming to a consensus.
 
 #### Advantages
 
