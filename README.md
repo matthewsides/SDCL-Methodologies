@@ -51,7 +51,7 @@ For the type of software products that do not change very much once they are spe
 
 ### Evolutionary Model
 
-The Evolutionary Model or approach (is a combination of iterative and incremental) is based on the idea of rapidly developing an initial software implementation from very abstract specifications and modifying this according to an appraisal (phases are concurrent and feedback is given and used between each phase). This essentially means developing an application, getting feedback and rather than what is done in the prototyping model and scraping the application, building upon it.
+The Evolutionary Model or approach (is iterative ) is based on the idea of rapidly developing an initial software implementation from very abstract specifications and modifying this according to an appraisal (phases are concurrent and feedback is given and used between each phase). This essentially means developing an application, getting feedback and rather than what is done in the prototyping model and scraping the application, building upon it.
 
 #### Advantages 
 
